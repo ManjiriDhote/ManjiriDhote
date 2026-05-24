@@ -13,12 +13,11 @@
 ### ❋ About Me
 
 ```python
-class Manjiri:
-    education = "B.Tech CSE-DSA @ RCOEM Nagpur 🎓"
-    passion   = ["Machine Learning", "AI", "Data Science"]
-    learning  = ["Python", "DSA", "Prompt Engineering"]
-    goal      = "ML/AI Internship 2025 🚀"
-    motto     = "Turning coffee into code ☕"
+education = "B.Tech CSE-DSA @ RCOEM Nagpur 🎓"
+passion   = ["Machine Learning", "AI", "Prompt Engineering", "Data Science"]
+learning  = ["DSA", "Prompt Engineering"]
+goal      = "ML/AI Internship 2026 🚀"
+motto     = "Turning coffee into code ☕"
 ```
 
 <br/>
