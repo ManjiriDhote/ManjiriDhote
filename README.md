@@ -13,11 +13,12 @@
 ### ❋ About Me
 
 ```
+
 education = "B.Tech CSE-DSA @ RBU Nagpur 🎓 (2024-2028)"
 passion   = ["Machine Learning", "AI", "Prompt Engineering", "Data Science"]
-learning  = ["DSA", "Prompt Engineering"]
+learning  = ["DSA", "Python"]
 goal      = "ML/AI Internship 2026 🚀"
-motto     = "Turning coffee into code ☕"
+motto     = "Turning chai and curiosity into code ✨☕"
 ```
 
 <br/>
