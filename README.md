@@ -13,7 +13,6 @@
 ### ❋ About Me
 
 ```
-
 education = "B.Tech CSE-DSA @ RBU Nagpur 🎓 (2024-2028)"
 passion   = ["Machine Learning", "AI", "Prompt Engineering", "Data Science"]
 learning  = ["DSA", "Python"]
